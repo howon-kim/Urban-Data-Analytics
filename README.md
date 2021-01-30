@@ -1,8 +1,10 @@
-# Bay Area Data Analytics
-##### Department of City and Regional Planning at UC Berkeley
+Bay Area Data Analytics
+===============
+Department of City and Regional Planning at UC Berkeley
 
-## Community Profile of Census Tract 4403.08
-#### Co-Author : FengChi Juan, Ho Won Kim
+Community Profile of Census Tract 4403.08
+===============
+#### Author: FengChi Juan, Ho Won Kim
 ### Description
 Union City is located in the south of Silicon Valley, covering an area of 19 square miles. In terms of the
 educational environment, it has two community colleges, seven primary schools, two junior high
@@ -20,8 +22,9 @@ Dynamics) data from 2010 and 2018. The data we are focusing on this portfolio is
 structure, racial/ethnic composition, income and poverty levels, and labor force characteristics. Our main goal
 is to explore the impact of income changes on different ethnic groups.
 
-## Covid-19’s Effects on Bike Sharing in San Francisco
-#### Co-Author : Azucena Castro, FengChi Juan, Ho Won Kim
+Covid-19’s Effects on Bike Sharing in San Francisco
+===============
+#### Author: Azucena Castro, FengChi Juan, Ho Won Kim
 ### Description
 The Bay Area’s bike share pilot program was established in August 2013 as Bay Area Bike Share with only a few bikes
 and stations in operation. The program was later re-launched as Ford GoBike in 2017 and expanded to multiple cities
